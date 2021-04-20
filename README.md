@@ -27,6 +27,10 @@ Button som visas här nedanför visar att det bland annat är den knappen som li
 Linearlayout eftersom att då skulle den hamna bredvid de andra två knapparna och då skulle de resultera i väldigt lite yta att skriva något i den i appen,
 så istället lades EditText ovanför allt som visas på bild 2 och det blev det slutgiltiga resultatet av appen.
 
+![](bild1.png)
+![](bild2.png)
+![](bild3.png)
+
 
 ```
 <LinearLayout
@@ -48,7 +52,4 @@ så istället lades EditText ovanför allt som visas på bild 2 och det blev det
         android:inputType="text"/>
 ```
 
-![](bild1.png)
-![](bild2.png)
-![](bild3.png)
 
